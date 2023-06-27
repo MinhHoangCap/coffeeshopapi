@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e6"
+  },
+  "product_id": 3,
+  "product_name": "Latte",
+  "price": 3,
+  "image_link": "https://example.com/latte.jpg"
+},{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e4"
+  },
+  "product_id": 1,
+  "product_name": "Espresso",
+  "price": 2.5,
+  "image_link": "https://example.com/espresso.jpg"
+},{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e7"
+  },
+  "product_id": 4,
+  "product_name": "Mocha",
+  "price": 4,
+  "image_link": "https://example.com/mocha.jpg"
+},{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e5"
+  },
+  "product_id": 2,
+  "product_name": "Cappuccino",
+  "price": 3.5,
+  "image_link": "https://example.com/cappuccino.jpg"
+}]

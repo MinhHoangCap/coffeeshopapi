@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e3"
+  },
+  "order_id": 3,
+  "customer_id": 3,
+  "order_date": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "total_price": 6
+},{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e1"
+  },
+  "order_id": 1,
+  "customer_id": 1,
+  "order_date": {
+    "$date": "2023-04-20T00:00:00.000Z"
+  },
+  "total_price": 8.5
+},{
+  "_id": {
+    "$oid": "6442bf705ee0d585a2c551e2"
+  },
+  "order_id": 2,
+  "customer_id": 2,
+  "order_date": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "total_price": 11.5
+}]
